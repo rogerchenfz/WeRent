@@ -2,7 +2,7 @@
 
 Please see the details of report in [Report.md](https://github.com/rogerchenfz/WeRent/blob/master/Report.md) and the code in [code.sql](https://github.com/rogerchenfz/WeRent/blob/master/code.sql) file.
 
-![](https://github.com/rogerchenfz/WeRent/blob/master/logo.png)
+![](logo.png)
 
 ## Background
 
@@ -12,13 +12,13 @@ We set up a company called WeRent that operates an online platform for housing  
 
 In order to solve the problem presented above, we design a new business model about renting. 
 
-![](https://github.com/rogerchenfz/WeRent/blob/master/Bussiness_Model_Comparison.png)
+![](Bussiness_Model_Comparison.png)
 
 ## ER Model
 
 The ER diagram drawn by Microsoft Visio is shown below There are 11 entities in the ER Diagram. The APARTMENT table is the main entities (with green  header), which contains the features and data about the apartments to be rent, such as the area, types, expected durations and so on. The customers’ information is designed to be stored in OWNER, TENANT and AGENCY respectively. The interactions between APARTMENT and TENANT are depicted by COMMENT, COLLECTION,  BROWSING_RECORD and CONTRACT.
 
-![](https://github.com/rogerchenfz/WeRent/blob/master/ER_diagram.png)
+![](ER_diagram.png)
 
 ## Relational Schema
 
