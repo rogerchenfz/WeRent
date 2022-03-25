@@ -22,7 +22,7 @@ Therefore, it is time to fill a gap in such area: a new housing rental system is
 
 In order to solve the problem presented above, we design a new business model about renting. 
 
-![](https://github.com/rogerchenfz/WeRent/blob/master/Bussiness_Model_Comparison.png)
+![Bussiness Model Comparison](Bussiness_Model_Comparison.png)
 
 In existing co-renting systems, each room in an apartment is separated and is an object in a contract. Tenants are supposed to sign the contract with the owner or agency individually. Yet in our business model, tenants are capable to find their preferred roommates first and then sign a contract where the object is the whole apartment.
 
@@ -56,7 +56,7 @@ Once group members and the owner reach a consensus, the status of the apartment 
 
 The ER diagram drawn by Microsoft Visio is shown below There are 11 entities in the ER Diagram. The APARTMENT table is the main entities (with green  header), which contains the features and data about the apartments to be rent, such as the area, types, expected durations and so on. The customers’ information is designed to be stored in OWNER, TENANT and AGENCY respectively. The interactions between APARTMENT and TENANT are depicted by COMMENT, COLLECTION,  BROWSING_RECORD and CONTRACT.
 
-![](https://github.com/rogerchenfz/WeRent/blob/master/ER_diagram.png)
+![ER Diagram](ER_diagram.png)
 
 ## Relational Schema
 
@@ -76,13 +76,13 @@ The ER diagram drawn by Microsoft Visio is shown below There are 11 entities in 
 
 The functional dependency diagram is shown below. By our design, the partial dependency and transitive dependency are eliminated and primary keys can be uniquely identified, thus all relations are in the third normal form.
 
-![](https://github.com/rogerchenfz/WeRent/blob/master/functional_dependency_diagram.png)
+![Functional Dependency Diagram](functional_dependency_diagram.png)
 
 ## User Instructions
 
 ### Entry Page
 
-This is the entry page of our platform, WeRent, on the applet. In the middle the logo of our platform is  showed and under it there is a simple greeting for our users. 
+This is the entry page of our platform, WeRent, on the applet. In the middle the logo of our platform is showed and under it there is a simple greeting for our users. 
 
 ### Front Page
 
