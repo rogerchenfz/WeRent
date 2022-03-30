@@ -1,8 +1,8 @@
 # WeRent - Find Your Soul Roomate
 
-Please see the details of report in [Report.md](https://github.com/rogerchenfz/WeRent/blob/master/Report.md) and the code in [code.sql](https://github.com/rogerchenfz/WeRent/blob/master/code.sql) file.
+Please see the details of report in [Report.md](https://github.com/rogerchenfz/WeRent/blob/main/Report.md) and the code in [code.sql](https://github.com/rogerchenfz/WeRent/blob/main/code.sql) file.
 
-![logo](logo.jpg)
+<img src="logo.jpg" width = "200" height = "200" alt="logo" />
 
 ## Background
 
