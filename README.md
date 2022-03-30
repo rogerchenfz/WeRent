@@ -2,7 +2,7 @@
 
 Please see the details of report in [Report.md](https://github.com/rogerchenfz/WeRent/blob/main/Report.md) and the code in [code.sql](https://github.com/rogerchenfz/WeRent/blob/main/code.sql) file.
 
-<img src="logo.jpg" width = "1064" height = "842" alt="logo" />
+<img src="logo.jpg" width = "532" height = "421" alt="logo" />
 
 ## Background
 
